@@ -1,0 +1,53 @@
+# Dependency directories
+/node_modules/
+/dist/
+/dist-ssr/
+/build/
+/.cache/
+
+# Environment configuration files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+/logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# 3D assets
+/assets/models/
+
+# Lock files (if using npm exclusively, ignore others)
+/package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
